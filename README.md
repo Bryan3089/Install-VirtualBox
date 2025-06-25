@@ -36,6 +36,9 @@ Before installing VirtualBox, ensure that:
 ## 🖼️ Screenshots (Optional)
 
 > Add screenshots of each step inside a `/screenshots` folder and embed them like this:
+![image](https://github.com/user-attachments/assets/317024f3-0e4b-42d1-ad6b-ca44cf80ec37)
+
+
 
 ## 📦Add Extension Pack
 
