@@ -4,6 +4,9 @@
 
 This repository provides a simple and clear guide on how to install [Oracle VM VirtualBox](https://www.virtualbox.org/) on a Windows system.
 
+![VirtualBox](https://github.com/user-attachments/assets/13dc98ef-be47-4554-a8d9-0349dfcc9b11)
+
+
 ## 📋 Prerequisites
 
 Before installing VirtualBox, ensure that:
