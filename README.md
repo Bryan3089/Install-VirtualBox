@@ -35,7 +35,7 @@ Before installing VirtualBox, ensure that:
   
 ## 🖼️ Screenshots (Optional)
 
-> `/Step 1`:
+> `Step 1`:
 ![image](https://github.com/user-attachments/assets/317024f3-0e4b-42d1-ad6b-ca44cf80ec37)
 
 
