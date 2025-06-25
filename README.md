@@ -32,6 +32,10 @@ Before installing VirtualBox, ensure that:
 5. **Verify Installation:**
    - Open **VirtualBox** from the Start Menu
    - The main VirtualBox Manager window should appear
+  
+## 🖼️ Screenshots (Optional)
+
+> Add screenshots of each step inside a `/screenshots` folder and embed them like this:
 
 ## 📦Add Extension Pack
 
