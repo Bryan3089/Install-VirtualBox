@@ -37,6 +37,11 @@ Before installing VirtualBox, ensure that:
 
 > `Step 1`:
 ![image](https://github.com/user-attachments/assets/317024f3-0e4b-42d1-ad6b-ca44cf80ec37)
+>
+> `Step 2`:
+![image](https://github.com/user-attachments/assets/968085c2-1b60-402f-88c1-ed1886e8b374)
+
+
 
 
 
