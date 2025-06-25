@@ -35,7 +35,7 @@ Before installing VirtualBox, ensure that:
   
 ## 🖼️ Screenshots (Optional)
 
-> Add screenshots of each step inside a `/screenshots` folder and embed them like this:
+> Step 1`/screenshots`:
 ![image](https://github.com/user-attachments/assets/317024f3-0e4b-42d1-ad6b-ca44cf80ec37)
 
 
@@ -45,10 +45,6 @@ Before installing VirtualBox, ensure that:
 - Download the [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 - Open VirtualBox → `File` → `Preferences` → `Extensions`
 - Click the "+" icon to install the `.vbox-extpack` file
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
