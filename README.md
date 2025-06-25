@@ -33,6 +33,19 @@ Before installing VirtualBox, ensure that:
    - Open **VirtualBox** from the Start Menu
    - The main VirtualBox Manager window should appear
 
-## 🖼️ Screenshots (Optional)
+## 📦Add Extension Pack
 
-> Add screenshots of each step inside a `/screenshots` folder and embed them like this:
+- Download the [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+- Open VirtualBox → `File` → `Preferences` → `Extensions`
+- Click the "+" icon to install the `.vbox-extpack` file
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### 🔗 Useful Resources
+
+- [VirtualBox User Manual](https://www.virtualbox.org/manual/UserManual.html)
+- [Troubleshooting Guide](https://www.virtualbox.org/wiki/Troubleshooting)
